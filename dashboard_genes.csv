@@ -1,0 +1,13 @@
+pollutant,gene_symbol,log2FC,p_value,expression_status,study_id,evidence_type,Direction
+PM2.5,ABHD3,0.162714871773488,0.0003,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,ATP11A,0.2437602093027829,0.02,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,PSCA,-0.2410080995037949,0.045,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Downregulated
+PM2.5,ST6GALNAC4,-0.1030627934365324,0.0009,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Downregulated
+PM2.5,ST6GALNAC4,-0.1030627934365324,0.0009,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Downregulated
+PM2.5,ST6GALNAC4,-0.1030627934365324,0.0009,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Downregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated
+PM2.5,CLTCL1,0.3598696668286874,0.77,No significant fold-change threshold reached,PMC9177798,Phase II qRT-PCR,Upregulated

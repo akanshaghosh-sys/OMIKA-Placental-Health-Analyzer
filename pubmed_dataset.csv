@@ -1,0 +1,16 @@
+gene_symbol,group,beta,standard_error,p_value,pollutant,study_id,evidence_type,tissue,p_below_005
+ABHD3,Overall,-0.23,0.06,0.0003,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ABHD3,Female,-0.17,0.06,0.07,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False
+ABHD3,Male,-0.27,0.06,0.0009,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ATP11A,Overall,0.23,0.1,0.02,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ATP11A,Female,0.12,0.14,0.38,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False
+ATP11A,Male,0.31,0.15,0.04,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+PSCA,Overall,0.31,0.2,0.045,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+PSCA,Female,0.1,0.21,0.65,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False
+PSCA,Male,0.47,0.2,0.04,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ST6GALNAC4,Overall,0.3,0.09,0.0009,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ST6GALNAC4,Female,0.28,0.13,0.04,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+ST6GALNAC4,Male,0.33,0.12,0.006,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,True
+CLTCL1,Overall,0.03,0.1,0.77,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False
+CLTCL1,Female,-0.008,0.1,0.94,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False
+CLTCL1,Male,0.1,0.1,0.48,PM2.5,PMC9177798,Phase II qRT-PCR,Placenta,False

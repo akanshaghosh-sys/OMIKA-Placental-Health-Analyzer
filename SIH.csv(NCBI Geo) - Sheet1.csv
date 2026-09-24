@@ -1,0 +1,9 @@
+Sl No. ,GSE ID,ORGANISM,EXPOSED BY:,CELLN/MODEL,SAMPLE
+1,GSE237795,Homo sapiens,"PM2.5 (100 µg/mL, 24 h)",HTR8/SVneo cell line,"CON 1,2,3"
+2,GSE7434,Homo sapiens,Cigarette smoking,Placenta,10 samples: 5 smokers + 5 non-smokers
+3,GSE220756,Homo sapiens,CuO and PS nanoparticles,Human placental tissue (ex vivo perfused),"Donor_S94_before_perfusion, Control_rep1, CuO_rep1"
+4,GSE247382,Homo sapiens,Gestational age (1st vs 3rd trimester),Human placenta,"CVS_F_70696, CVS_M_70705, CVS_M_70707"
+5,GSE84260 ,Homo sapiens,Cadmium (Cd),Placental tissue + JEG3 trophoblast cells,"Placental Tissue_Normotensive_Subject_13
+Placental Tissue_Preeclamptic_subejct_10
+Placental Tissue_Preeclamptic_subejct_7
+"

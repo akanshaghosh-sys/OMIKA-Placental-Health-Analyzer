@@ -1,0 +1,11 @@
+pollutant,gene_symbol,KEGG_ID,Pathway_ID,Pathway
+PM2.5,ATP11A,hsa:23250,path:hsa04148,Efferocytosis
+PM2.5,ST6GALNAC4,hsa:27090,path:hsa00512,Mucin type O-glycan biosynthesis
+PM2.5,ST6GALNAC4,hsa:27090,path:hsa00604,Glycosphingolipid biosynthesis - ganglio series
+PM2.5,ST6GALNAC4,hsa:27090,path:hsa01100,Metabolic pathways
+PM2.5,CLTCL1,hsa:8218,path:hsa04142,Lysosome biogenesis
+PM2.5,CLTCL1,hsa:8218,path:hsa04144,Endocytosis
+PM2.5,CLTCL1,hsa:8218,path:hsa04721,Synaptic vesicle cycle
+PM2.5,CLTCL1,hsa:8218,path:hsa04961,Endocrine and other factor-regulated calcium reabsorption
+PM2.5,CLTCL1,hsa:8218,path:hsa05016,Huntington disease
+PM2.5,CLTCL1,hsa:8218,path:hsa05100,Bacterial invasion of epithelial cells
